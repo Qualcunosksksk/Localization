@@ -1,0 +1,26 @@
+"lang"
+{
+	"Language"	"ukrainian"
+	"Tokens"
+	{
+		"#StatusMenus"	"{#Status_%gamestatus%}"
+		"#StatusGame"	"{#Status_%gamestatus%} на {#Difficulty_%difficulty%}"
+		"#Status_Menu"	"Сидить в меню"
+		"#Status_LCZ"	"Блукає легкою зоною утримання"
+		"#Status_HCZ"	"Блукає суворою зоною утримання"
+		"#Status_EZ"	"Блукає зоною входу"
+		"#Status_jorge"	"Джордж чекав на вас"
+		"#Status_Intro"	"На випробуванні SCP-173"
+		"#Status_860"	"Мандрує блакитним лісом"
+		"#Status_1499"	"Носить протигаз ГП-5"
+		"#Status_PD"	"У полоні в кишеньковому вимірі"
+		"#Status_GateA"	"Втікає через Ворота A"
+		"#Status_GateB"	"Втікає через Ворота B"
+		"#Status_MT"	"Заблукав у технічних тунелях"
+		"#Status_Halloween"	"Насолоджується духом Хелловіну"
+		"#Difficulty_Safe"	"Безпечній складності"
+		"#Difficulty_Euclid"	"складності Евклід"
+		"#Difficulty_Keter"	"складності Кетер"
+		"#Difficulty_Esoteric"	"Езотеричній складності"
+	}
+}

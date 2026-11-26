@@ -1,0 +1,8 @@
+﻿*Ukrainian Localization
+
+*Translators
+		Marian "Mister ERIO" Kovalchuk
+		Paster
+		slija
+		Viktor Zhabinskyi ("GoBoyGo5")
+		

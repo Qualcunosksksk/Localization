@@ -1,12 +1,72 @@
-*German Localization
 
-        Stefan Koch ("Salvage")
+*German Localization Leads
 
-        Alexander Brunner ("Lestlandia")
 
-=================================
+Alexander Brunner ("Lest")
+Stefan Koch ("Salvage")
 
-Voice Actors
-	
-	SCP-049 - Daurgon
-	Franklin - Voxellotl
+
+*German Textures
+
+
+Alexander Brunner ("Lest")
+
+
+*German Sound Editing
+
+
+Alexander Brunner ("Lest")
+Mikhail Grigoriev ("Zero_Gravity")
+
+
+*German Script
+
+
+Alexander Brunner ("Lest")
+Stefan Koch ("Salvage")
+
+
+*German UI-Translations
+
+
+Alexander Brunner ("Lest")
+Stefan Koch ("Salvage")
+
+
+*German Voices
+
+
+Ulgrin - Sebastian Schaaf ("Nerodus")
+Anxious Security Guard - Justin ("flin")
+PA System - Daurgon
+Franklin - Voxellotl
+Balcony Guard - Heateffect
+MTF Announcer - Voxellotl
+SCP-049 - Daurgon
+SCP-035 - Daurgon
+SCP-106 - Heateffect
+SCP-939-1 - Sebastian Schaaf ("Nerodus")
+SCP-939-2 - Justin ("flin")
+SCP-939-3 - Siren
+SCP-990 - Dr. Zargota
+SCP-789-J - Heateffect
+D-9341 (SCP-012) - ShinRamyeon
+Class-D 1 - Alexander Brunner ("Lest")
+Class-D 2 - ShinRamyeon
+Storage Room Scientist 1 - Heateffect
+Storage Room Scientist 2 - ShinRamyeon
+MTF-1 - Maximilian Wille ("AHeckingChonker")
+MTF-2 - Alexander Brunner ("Lest")
+MTF-3 - Gluratex | Arti
+Head Scientist - Alexander Heier ("Maski")
+Dr. Harp - Alexander Heier ("Maski")
+Radio Scientist - Heateffect
+Radio Guy - Hollowbee
+Class-D (Femur Breaker) - Stefan Koch ("Salvage")
+Toilet Guard - Purplatt
+Chaos Insurgency - Dr. Zargota
+096 Server Room Guard - Alexander Brunner ("Lest")
+CH-1 - Heateffect
+OH-6 - Bäschtle
+Pleading Radio Guy - ShinRamyeon
+SCP-895 Guard - Heateffect
